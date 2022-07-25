@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Jonathan! 🦈</h1>
-
+<img src="profileBanner.png" alt="profile banner">
 <!--
-**jonathanvieri/jonathanvieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
