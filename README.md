@@ -5,8 +5,11 @@
   <a href="https://www.discordapp.com/users/115724275155075072">
     <img src="images/discordLogo.png" style="width: 64px; height: 64px;">
   </a>
+ 
+  <a href="https://www.linkedin.com/in/jonathanvieri/">
+    <img src="images/linkedinLogo.png" style="width: 62px; height: 61px;">
+  </a>
 </div>
-
 
 <!--
 Here are some ideas to get you started:
