@@ -1,5 +1,13 @@
 <h1 align="center">Hi, I'm Jonathan! 🦈</h1>
-<img src="profileBanner.png" alt="profile banner">
+<img src="images/profileBanner.png" alt="profile banner">
+
+<div class="socials" align="center">
+  <a href="https://www.discordapp.com/users/115724275155075072">
+    <img src="images/discordLogo.png" style="width: 64px; height: 64px;">
+  </a>
+</div>
+
+
 <!--
 Here are some ideas to get you started:
 
