@@ -15,14 +15,6 @@
 
 <div class="facts" align="center">
   <h3>🌱 I’m currently learning about Swift and iOS development. </h3>
-  <h3>🔭 I’m currently working on <b><i>Chooaca</i></b>, a weather app. </h3>
+  <h3>🔭 I’m currently working on <b><i>BMI Me</i></b>, a BMI calculator app. </h3>
   <h3>⚡ Fun fact: I put milk before cereal. </h3>
 </div>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
--->
