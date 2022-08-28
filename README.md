@@ -15,6 +15,6 @@
 
 <div class="facts" align="center">
   <h3>🌱 I’m currently learning about Swift and iOS development. </h3>
-  <h3>🔭 I’m currently working on <b><i>BMI Me</i></b>, a BMI calculator app. </h3>
+  <h3>🔭 I’m currently working on <b><i>DST Crockpot</i></b>, a Don't Starve Together crockpot recipes app. </h3>
   <h3>⚡ Fun fact: I put milk before cereal. </h3>
 </div>
