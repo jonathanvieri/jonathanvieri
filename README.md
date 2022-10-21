@@ -14,7 +14,7 @@
 <br>
 
 <div class="facts" align="center">
-  <h3>🌱 I’m currently learning about RxSwift. </h3>
-  <h3>🔭 I’m currently working on <b><i>DST Crockpot</i></b>, a Don't Starve Together crockpot recipes app. </h3>
+  <h3>🌱 I’m currently learning about Selenium and Web Development. </h3>
+  <h3>🔭 I’m currently working on automation test repo and my personal website</h3>
   <h3>⚡ Fun fact: I put milk before cereal. </h3>
 </div>
