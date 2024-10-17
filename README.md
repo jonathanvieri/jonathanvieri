@@ -1,16 +1,21 @@
-### Hey there~ <img src="https://github.com/jonathanvieri/jonathanvieri/blob/main/assets/smiling-wave.gif" height=32px width=32px alt="smiling emoji with waving hands" />
+## Hey there, I'm Jonathan Vieri! <img src="https://github.com/jonathanvieri/jonathanvieri/blob/main/assets/smiling-wave.gif" height=32px width=32px alt="smiling emoji with waving hands" />
 
-<!--
-**jonathanvieri/jonathanvieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an iOS Developer based in Jakarta, Indonesia, transitioning from a background as a Software Development Engineer in Test (SDET) to full-time iOS development. 
+I love building fast, intuitive apps using UIKit and SwiftUI, prioritizing clean architecture and smooth user experiences.
 
-Here are some ideas to get you started:
+### 🌱 What I’m Working On
+- **Horizon**: a weather app built with SwiftUI, featuring daily weather notifications, location-based forecasts, and a minimalist user interface. (This will change my old app Chooaca)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+- **Languages**: Swift, Objective-C
+- **Frameworks**: SwiftUI, UIKit, Core Data, Core Animation, Core Location
+- **Architectures**: MVVM, MVC
+- **Tools**: Xcode, Git, CocoaPods, Swift Package Manager
+- **APIs & Services**: RESTful APIs, URLSession, Firebase
+
+### 🚀 Featured Projects
+- **Pack Buddy**: A user-friendly packing app that helps travelers organize their trips with ease.
+- **Chooaca**: A simple weather app.
+
+### 📈 GitHub Stats
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
