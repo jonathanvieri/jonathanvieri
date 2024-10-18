@@ -18,4 +18,4 @@ I love building fast, intuitive apps using UIKit and SwiftUI, prioritizing clean
 - **Chooaca**: A simple weather app.
 
 ### 📈 GitHub Stats
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanvieri&show_icons=true&theme=tokyonight)
