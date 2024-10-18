@@ -16,6 +16,3 @@ I love building fast, intuitive apps using UIKit and SwiftUI, prioritizing clean
 ### 🚀 Featured Projects
 - **Pack Buddy**: A user-friendly packing app that helps travelers organize their trips with ease.
 - **Chooaca**: A simple weather app.
-
-### 📈 GitHub Stats
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanvieri&show_icons=true&theme=tokyonight)
