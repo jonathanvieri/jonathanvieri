@@ -1,4 +1,4 @@
-## Hey there, I'm Jonathan Vieri! <img src="https://github.com/jonathanvieri/jonathanvieri/blob/main/assets/smiling-wave.gif" height=32px width=32px alt="smiling emoji with waving hands" />
+## Hey there, I'm Jonathan Vieri <img src="https://github.com/jonathanvieri/jonathanvieri/blob/main/assets/smiling-wave.gif" height=32px width=32px alt="smiling emoji with waving hands" />
 
 I’m an iOS Developer based in Jakarta, Indonesia, transitioning from a background as a Software Development Engineer in Test (SDET) to full-time iOS development. 
 I love building fast, intuitive apps using UIKit and SwiftUI, prioritizing clean architecture and smooth user experiences.
