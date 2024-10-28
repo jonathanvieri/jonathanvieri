@@ -4,7 +4,7 @@ I’m an iOS Developer based in Jakarta, Indonesia, transitioning from a backgro
 I love building fast, intuitive apps using UIKit and SwiftUI, prioritizing clean architecture and smooth user experiences.
 
 ### 🌱 What I’m Working On
-- **Horizon**: a weather app built with SwiftUI, featuring daily weather notifications, location-based forecasts, and a minimalist user interface. (This will change my old app Chooaca)
+- Maintenance for Pack Buddy & Horizon
 
 ### 🛠️ Technologies & Tools
 - **Languages**: Swift, Objective-C
@@ -15,4 +15,4 @@ I love building fast, intuitive apps using UIKit and SwiftUI, prioritizing clean
 
 ### 🚀 Featured Projects
 - **Pack Buddy**: A user-friendly packing app that helps travelers organize their trips with ease.
-- **Chooaca**: A simple weather app.
+- **Horizon**: A weather app built with SwiftUI, featuring daily weather notifications, location-based forecasts, and a minimalist user interface.
