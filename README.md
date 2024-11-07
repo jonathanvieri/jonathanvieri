@@ -4,6 +4,7 @@ I’m an iOS Developer based in Jakarta, Indonesia, transitioning from a backgro
 I love building fast, intuitive apps using UIKit and SwiftUI, prioritizing clean architecture and smooth user experiences.
 
 ### 🌱 What I’m Working On
+- Unnammed budget tracking app
 - Unnammed workout and meal tracker app
 - Maintenance for Pack Buddy & Horizon
 
