@@ -1,7 +1,7 @@
-## Hey there, I'm Jonathan Vieri <img src="https://github.com/jonathanvieri/jonathanvieri/blob/main/assets/smiling-wave.gif" height=32px width=32px alt="smiling emoji with waving hands" />
+## Hey, nice to meet you I'm Jonathan! <img src="https://github.com/jonathanvieri/jonathanvieri/blob/main/assets/smiling-wave.gif" height=32px width=32px alt="smiling emoji with waving hands" />
 
-I’m an iOS Developer based in Jakarta, Indonesia, transitioning from a background as a Software Development Engineer in Test (SDET) to full-time iOS development. 
-I love building fast, intuitive apps using UIKit and SwiftUI, prioritizing clean architecture and smooth user experiences.
+I'm an iOS Developer who started out in software testing, where I discovered a love for coding through automation. 
+As I grew in that role, I found myself wanting to expand beyond testing and dive deeper into building and designing. That curiosity led me to iOS development, where I now get to design, develop, and test – creating apps that feel impactful and personally fulfilling.
 
 ### 🌱 What I’m Working On
 - Unnammed budget tracking app
