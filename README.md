@@ -16,5 +16,5 @@ As I grew in that role, I found myself wanting to expand beyond testing and dive
 - **APIs & Services**: RESTful APIs, URLSession, Firebase, OpenWeatherMap API
 
 ### 🚀 Featured Projects
-- **Pack Buddy**: A user-friendly packing app that helps travelers organize their trips with ease.
-- **Horizon**: A weather app built with SwiftUI, featuring daily weather notifications, location-based forecasts, and a minimalist user interface.
+- **Pack Buddy**: A packing checklist app that helps travelers organize their trips.
+- **Horizon**: A weather app featuring daily weather notifications, location-based forecasts, and air quality index (AQI) data.
