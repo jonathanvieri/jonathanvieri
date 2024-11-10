@@ -6,7 +6,6 @@ As I grew in that role, I found myself wanting to expand beyond testing and dive
 ### 🌱 What I’m Working On
 - 🧾 Split Bill App 
 - 🔧 Learning about Combine for Horizon
-- 🔧 Learning about CloudKit for Pack Buddy
 
 ### 🛠️ Technologies & Tools
 - **Languages**: Swift, Objective-C
