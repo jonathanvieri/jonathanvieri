@@ -9,7 +9,7 @@ As I grew in that role, I found myself wanting to expand beyond testing and dive
 
 ### 🛠️ Skills
 - **Languages**: Swift, Objective-C
-- **Frameworks**: SwiftUI, UIKit, Core Data, Core Animation, Core Location, Combine
+- **Frameworks**: SwiftUI, UIKit, Core Data, Core Animation, Core Location, Combine, XCTest
 - **Architectures**: MVVM, MVC
 - **Tools**: Xcode, Git, CocoaPods, Swift Package Manager, JIRA, Postman
 - **APIs & Services**: RESTful APIs, URLSession, Firebase, OpenWeatherMap API
