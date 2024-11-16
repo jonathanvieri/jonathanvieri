@@ -4,6 +4,7 @@ I'm an iOS Developer who started out in software testing, where I discovered a l
 As I grew in that role, I found myself wanting to expand beyond testing and dive deeper into building and designing. That curiosity led me to iOS development, where I now get to design, develop, and test – creating apps that feel impactful and personally fulfilling.
 
 ### 💡 What I’m Working On
+- **Sentry**: An app for mocking CCTV Motion Detection, using AVFoundation, Core Media, and Vision framework.
 - **Split Bill App**: A helper app for splitting bills, using OCR capabilities from the Vision framework.
 - **Combine for Horizon**: Enhancing real-time data handling in the Horizon app.
 
