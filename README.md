@@ -5,8 +5,8 @@ As I grew in that role, I found myself wanting to expand beyond testing and dive
 
 ### 💡 What I’m Working On
 - **Sentry**: An app for mocking CCTV Motion Detection, using AVFoundation, Core Media, and Vision framework.
-- **Split Bill App**: A helper app for splitting bills, using OCR capabilities from the Vision framework.
 - **Combine for Horizon**: Enhancing real-time data handling in the Horizon app.
+- **Split Bill App**: A helper app for splitting bills, using OCR capabilities from the Vision framework (Targeting for App store release).
 
 ### 🛠️ Skills
 - **Languages**: Swift, Objective-C
