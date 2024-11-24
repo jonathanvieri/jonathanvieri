@@ -8,13 +8,6 @@ As I grew in that role, I found myself wanting to expand beyond testing and dive
 - **Combine for Horizon**: Enhancing real-time data handling in the Horizon app.
 - **Split Bill App**: A helper app for splitting bills, using OCR capabilities from the Vision framework (Targeting for App store release).
 
-### 🛠️ Skills
-- **Languages**: Swift, Objective-C
-- **Frameworks**: SwiftUI, UIKit, Core Data, Core Animation, Core Location, Combine, XCTest
-- **Architectures**: MVVM, MVC
-- **Tools**: Xcode, Git, CocoaPods, Swift Package Manager, JIRA, Postman
-- **APIs & Services**: RESTful APIs, URLSession, Firebase, OpenWeatherMap API
-
 ### 🚀 Projects
 - **Pack Buddy**: A travel app for creating and organizing packing checklists.
 - **Horizon**: A weather app with daily notifications, location-based forecasts, and AQI data.
